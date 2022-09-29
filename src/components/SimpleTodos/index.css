@@ -1,0 +1,16 @@
+.bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding: 30px;
+}
+
+.card-container {
+  background-color: #fff;
+  padding: 30px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.heading {
+  color: #ff8542;
+}
